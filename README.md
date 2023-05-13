@@ -2,7 +2,7 @@
 <br></br>
 <b><div align="center"><p>A Game Developer from Istanbul/Turkey</p> </div> </b>
 <br></br>
-- 🔭 I’m currently working on <b>Unity 3D</b>
+- 🔭 I’m currently working on <b>Unity 3D</b>, <b>C# 3D</b>
 - 🌱 I’m currently learning <b>Unity 3D</b>, <b>C#</b>, <b>Blender</b>
 - 💬 Ask me about <b>Unity Game Development</b>, <b>C#</b>
 - 📫 How to reach me harun.esad@gmail.com
